@@ -1,7 +1,7 @@
 # RusCntl – Custom Kubernetes Pod Labeling Controller
 
-⚠️⚠️⚠️
-This is a toy I created to play with Rust and kubernetes. Please note that it lacks many features that are Production Ready
+⚠️⚠️⚠️<br>
+This is a toy I created to play with Rust and kubernetes. Please note that it lacks many features that are Production Ready<br>
 ⚠️⚠️⚠️
 
 ## Project Overview
